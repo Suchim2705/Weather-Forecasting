@@ -1,6 +1,6 @@
-Weather Forecasting Project
+# Weather Forecasting Project
 
-Overview:
+Overview: 
 This project explores a weather dataset from Kaggle and demonstrates the complete workflow of data analysis, visualization, and predictive modeling.
 The main goal was to predict **apparent temperature** using various weather features.
 
@@ -31,7 +31,7 @@ The main goal was to predict **apparent temperature** using various weather feat
    - Evaluated performance using accuracy and error metrics  
    - **Random Forest Classifier performed best with 95% accuracy**
   
-   - ## Results
+  ## Results
 - Model accuracies ranged from **93% to 95%**.  
 - The **Random Forest Classifier** achieved the highest accuracy at **95%**.  
 - The results highlight the importance of ensemble methods for weather prediction tasks.
