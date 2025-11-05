@@ -31,8 +31,8 @@ The main goal was to predict **apparent temperature** using various weather feat
 - The **Random Forest Classifier** achieved the highest accuracy at **95%**.  
 - The results highlight the importance of ensemble methods for weather prediction tasks.
 
-- ## Tools & Libraries
-- Python 3.x  
+## Tools & Libraries
+- Python
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Scikit-learn  
