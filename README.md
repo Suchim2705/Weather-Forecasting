@@ -18,15 +18,10 @@ The main goal was to predict **apparent temperature** using various weather feat
 - Apparent Temperature (target variable)
 
 ## Methodology
-1. **Data Cleaning & Preprocessing:**  
-   Handled missing values, outliers, and formatted data for modeling.
+1. **Data Profiling & Preprocessing:**  
+   Explore, handle missing values, outliers, and formatted data for modeling.
 
-2. **Exploratory Data Analysis (EDA):**  
-   - Visualized distributions of features  
-   - Studied correlations between variables  
-   - Identified patterns impacting apparent temperature
-
-3. **Predictive Modeling:**  
+2. **Predictive Modeling:**  
    - Tested multiple models, including Random Forest, Linear Regression, and Decision Trees  
    - Evaluated performance using accuracy and error metrics  
    - **Random Forest Classifier performed best with 95% accuracy**
